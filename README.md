@@ -1,7 +1,7 @@
 ## Hi there 👋,My name is Ruzana khan
 
 #### I am a student
-![I am a student](https://www.facebook.com/photo/?fbid=105230435750942&set=a.105225589084760)
+
 
 
 Skills: Python/PHP/JS/CSS/JS/and some fameworks & libraries
