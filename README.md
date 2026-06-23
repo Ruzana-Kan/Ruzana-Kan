@@ -1,7 +1,7 @@
 <h1 align="center">Hello I am Ruzana khan</h1>
 <h3 align="center">Creativity on deamnd</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruzana-kan&label=Profile%20views&color=0e75b6&style=flat" alt="ruzana-kan" /> </p>
+<p align="left"> <img src="https://www.facebook.com/photo/?fbid=1530167348679763&set=a.103358531360659" alt="ruzana-kan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruzana-kan" alt="ruzana-kan" /></a> </p>
 
